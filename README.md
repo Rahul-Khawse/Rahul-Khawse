@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-<br><br>🦋 I am a Computer Science and Engineering Undergraduate at Madhav Institute of Technology, Gwalior.<br><br>🦋 I love Competitive Programming, Web development and learning new skills.<br><br><br>✨MY VALUES✨<br><br>🦋 Beginner's mindset and curiosity.<br><br>🦋 Positive towards everything<br><br>🦋 Works hard on tasks till the goal is achieved.<br><br>🦋 A great learner.
+🦋 I am a Computer Science and Engineering Undergraduate at Madhav Institute of Technology, Gwalior.<br><br>🦋 I love Competitive Programming, Web development and learning new skills.<br><br><br>✨MY VALUES✨<br><br>🦋 Beginner's mindset and curiosity.<br><br>🦋 Positive towards everything<br><br>🦋 Works hard on tasks till the goal is achieved.<br><br>🦋 A great learner.
 
 
 ## 🌐 Socials:
