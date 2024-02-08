@@ -11,7 +11,6 @@
 <br/>
 
 ## ✨My Values✨
-<br>
 
 🦋 Beginner's mindset and curiosity.
 <br>
