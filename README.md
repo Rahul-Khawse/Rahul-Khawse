@@ -10,7 +10,7 @@
 🦋 I love Competitive Programming, Web development and learning new skills.
 <br/>
 
-## ✨MY VALUES✨
+## ✨My Values✨
 <br>
 
 🦋 Beginner's mindset and curiosity.
