@@ -1,8 +1,8 @@
-## HI, I'M RAHUL 🙋🏻‍♀️
+# HI, I'M RAHUL 🙋🏻‍♀️
 
 ###
 
-# 💫 About Me:
+## 💫 About Me:
 
 🦋 I am a Computer Science and Engineering Undergraduate at Madhav Institute of Technology, Gwalior.
 <br/>
@@ -10,7 +10,7 @@
 🦋 I love Competitive Programming, Web development and learning new skills.
 <br/>
 
-# ✨MY VALUES✨
+## ✨MY VALUES✨
 <br>
 
 🦋 Beginner's mindset and curiosity.
